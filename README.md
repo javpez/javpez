@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Javi 👋
 
-<!--
-**javpez/javpez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="text-align: center;">
+<img src="https://img.shields.io/badge/System-Linux-white?logo=linux"/>
+<img src="https://img.shields.io/badge/Language-C%2B%2B-blue?logo=cpp"/>
+<img src="https://img.shields.io/badge/Tool-cmake-yellow?logo=cmake"/>
+<img src="https://img.shields.io/badge/Scripting-bash-green?logo=bash"/>
+</p>
 
-Here are some ideas to get you started:
+I am a mathematician first and a software developer second.  
+I enjoy learning by breaking: to tinker is my thing. Here to share the remaining pieces of my process.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning the latest standard of C++ (>17) and multithreading/concurrency.
+- 🔭 I’m looking to collaborate on game engine development, testing frameworks and anything math related.
+
+<p style="text-align: center;">
+	<a href="mailto:javierg.lopez@protonmail.com">
+		<img src="https://img.shields.io/badge/Contact-azure?logo=protonmail"/>
+	</a>
+</p>
+
