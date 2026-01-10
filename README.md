@@ -8,7 +8,7 @@
 </p>
 
 I am a mathematician first and a software developer second.  
-I enjoy learning by doing and tinker with software and hardware alike.
+I enjoy learning by doing and tinker with software and hardware alike.  
 Here to share the remaining pieces of my process.
 
 <p style="text-align: center;">
