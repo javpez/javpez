@@ -8,10 +8,8 @@
 </p>
 
 I am a mathematician first and a software developer second.  
-I enjoy learning by breaking: to tinker is my thing. Here to share the remaining pieces of my process.  
-
-- 🌱 I’m currently learning the latest standard of C++ (>17) and multithreading/concurrency.
-- 🔭 I’m looking to collaborate on game engine development, testing frameworks and anything math related.
+I enjoy learning by doing and tinker with software and hardware alike.
+Here to share the remaining pieces of my process.
 
 <p style="text-align: center;">
 	<a href="mailto:javierg.lopez@protonmail.com">
